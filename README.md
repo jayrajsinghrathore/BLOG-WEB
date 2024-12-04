@@ -14,4 +14,6 @@ I developed a fully responsive, dynamic blog application using modern web develo
 
 6️⃣ Responsiveness Across All Devices: Using Tailwind’s responsive utilities, the app adapts flawlessly to mobile, tablet, and desktop screens, ensuring a consistent experience for all users.
 
+NOTE: During the development process, I encountered compatibility issues with the provided SVG assets on my device. To maintain progress and ensure the application’s visual integrity, I opted to source alternative images from Google. This workaround allowed me to deliver a polished and functional user interface while staying on schedule.
+
 This project showcases how modern tools like React and Tailwind CSS, combined with a focus on user-centric design, can create a polished and efficient web application.
